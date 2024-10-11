@@ -1,12 +1,15 @@
 # Welcome to my Employee management app 👋
 
-Instructions on how to set each of them up are included in their respective folders
+### Instructions on how to set up the backend and mobile can be found in the links below:
 
+[Set up backend](https://github.com/WilliamsScripts/employee-management-app/tree/main/backend)
 
-Here are screen recordings of how the app works on IOS and Android
+[Set up mobile](https://github.com/WilliamsScripts/employee-management-app/tree/main/mobile)
 
-[`IOS Recording`](https://www.loom.com/share/4301148249a74d56bf6bcaed779d0501).
+### Here are screen recordings of how the app works on IOS and Android
 
-[`Android Recording`](hhttps://www.loom.com/share/491437540b63485e88436a220aeb9f9d).
+[IOS Recording](https://www.loom.com/share/4301148249a74d56bf6bcaed779d0501)
+
+[Android Recording](hhttps://www.loom.com/share/491437540b63485e88436a220aeb9f9d)
 
 ### 🚨 Remember to expose your backend route before using it in the react native .env 
