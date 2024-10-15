@@ -1,4 +1,4 @@
-# EMPLOYEE MANAGER
+# Welcome to Expense management backend 👋
 
 ## Getting Started
 
